@@ -1,4 +1,6 @@
-# Undutmaning 2023 [SÄPO, FRA, MUST]
+# Undutmaning 2023
+## Organizers: SÄPO, FRA, MUST
+## Type: Jeopardy, Public, Online
 [https://undutmaning.se/]
 
 HAR DU VAD SOM KRÄVS?
