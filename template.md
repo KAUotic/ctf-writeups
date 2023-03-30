@@ -1,5 +1,5 @@
 # Challenge Name
-Category: web, crypto, osint, etc.
+Category: web, crypto, osint, etc.  
 Solved by: Your Name
 
 ## Description 
@@ -13,4 +13,4 @@ what info do we start with?
 ## Mitigation
 What could have been done to fix this vulnerability?
 
-Remember nice screenshots!
+(Remember nice screenshots!)
